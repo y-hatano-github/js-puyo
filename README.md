@@ -15,5 +15,5 @@ I wonder why I ever wrote like this unreadable program...
 Key bindings  
 [arrow left] - move left  
 [arrow right] - move right  
-[s/arrow down] - rotate right  
+[arrow down] - rotate right  
 [F5] - restart

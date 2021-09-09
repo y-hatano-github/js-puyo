@@ -3,15 +3,15 @@ This is a game similar to 'Puyo Puyo' written in Javascript that runs in a brows
 
 ![jspuyo](jspuyo.gif)
 
-## What is puyo puyo?
+# What is puyo puyo?
 https://en.wikipedia.org/wiki/Puyo_Puyo
 
-# About code.
+# About code
 This code was salvaged from old PC.  
 This code is quite old and difficult to read.  
 I wonder why I ever wrote like this unreadable program...
 
-## How to play
+# How to play
 Key bindings  
 [arrow left] - move left  
 [arrow right] - move right  

@@ -17,3 +17,7 @@ Key bindings
 [arrow right] - move right  
 [arrow down] - rotate right  
 [F5] - restart
+
+# Code Golf
+Tried code golf on this code.
+https://github.com/y-hatano-github/js-puyo-cg

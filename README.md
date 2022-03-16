@@ -9,7 +9,6 @@ https://en.wikipedia.org/wiki/Puyo_Puyo
 # About code
 This code was salvaged from old PC.  
 This code is quite old and difficult to read.  
-I wonder why I ever wrote like this unreadable program...
 
 # How to play
 Key bindings  
